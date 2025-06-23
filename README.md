@@ -182,4 +182,7 @@ For questions or further information, please contact the project owner or regula
 
 ---
 
-*This PoC demonstrates a maintainable, scalable, and user-friendly approach to automated data validation for
+## Conclusion
+
+This PoC demonstrates a maintainable, scalable, and user-friendly approach to automated data validation for regulatory reporting.
+
